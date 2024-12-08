@@ -15,3 +15,7 @@ This program is free software: you can redistribute it and/or modify it under th
 This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the [GNU General Public License](./LICENSE) for more details.
 
 You should have received a copy of the [GNU General Public License](./LICENSE) along with this program. If not, see <[gnu.org/licenses](https://www.gnu.org/licenses/)>.
+
+## Topics
+
+game gamedev games html5 html5-game game-development html-css html5-game-development web-game html-css-javascript html5-css3 game-dev naughts-crosses tic-tac-toe-webapp tic-tac-toe-web-application tictactoe-ai naughts naught-and-crosses naughts-and-crosses naughts-and-crosses-cs
