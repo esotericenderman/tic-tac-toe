@@ -1,5 +1,7 @@
 # Tic Tac Toe
 
+[![Project Status: Completed](./images/status.svg)](./)
+
 > A very simple tic-tac-toe website written in HTML, CSS, and JS.
 
 This was part of the [JS course](https://www.youtube.com/watch?v=SBmSRK3feww) by [SuperSimpleDev](https://www.youtube.com/@SuperSimpleDev) that I took.
