@@ -1,6 +1,6 @@
 # Tic Tac Toe
 
-[![Project Status: Completed](./images/status.svg)](./)
+[![Project status: completed](./images/status.svg)](./)
 
 > A very simple tic-tac-toe website written in HTML, CSS, and JS.
 
